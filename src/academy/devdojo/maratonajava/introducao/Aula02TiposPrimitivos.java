@@ -13,5 +13,6 @@ public class Aula02TiposPrimitivos {
         boolean falso = false;
         char caractere = 'A';
         System.out.println("A idade e "+idade+" anos");
+        System.out.println("Seu salario : "+salarioDouble);
     }
 }
